@@ -1,0 +1,11 @@
+a:hover{
+    text-decoration: none;
+}
+a{
+    color: white;
+    font-size: 1.25rem;
+}
+nav{
+    background-color: #24353F;
+    box-shadow: 0px 0px 50px #000;
+}

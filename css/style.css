@@ -1,0 +1,46 @@
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+section {
+    background-color: #24353F;
+    min-height: 100dvh;
+}
+.container .content{
+    background-color: #24353F;
+    box-shadow: 0px 0px  50px #000;
+}
+.container .content div .form input{
+    background-color: transparent;
+    color: #fff;
+    border: 1px solid #fff;
+}
+input:focus{
+    border-color: #17A2B8 !important;
+    
+}
+::placeholder{
+    color: #fff !important;
+}
+
+button:hover{
+    color: #fff !important;
+}
+
+
+
+h1{
+    color: #17A2B8;
+    font-size: rem;
+    font-weight: 400;
+    font-family: Titilliumweb;
+}
+@font-face {
+    font-family:  Titilliumweb;
+    src: url(../fonts/TitilliumWeb-SemiBold.ttf);
+}
+
+
+
